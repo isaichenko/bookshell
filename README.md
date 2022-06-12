@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Basic GraphQL app with CRUD
 
-Things you may want to cover:
+### Resources
 
-* Ruby version
+* graphql-ruby.org
 
-* System dependencies
+* graphql.org
 
-* Configuration
+* Front-end GraphQL clients
 
-* Database creation
+System:
 
-* Database initialization
+* Ruby version 3.0.0
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails 7.0.0
